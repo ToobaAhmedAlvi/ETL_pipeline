@@ -1,0 +1,101 @@
+location_id,location_name,location_Area,traffic_light_status,traffic_light_maintenance_date,camera_status,camera_last_maintenance_date
+1,Shahrah-e-Faisal,Jinnah International Airport to PIDC,Red,2025-02-04 01:50:11,Inactive,2025-02-14
+2,MA Jinnah Road,Saddar to Kharadar,Green,2025-01-10 23:37:06,Active,2025-02-10
+3,II Chundrigar Road,Tower to Merewether Tower,Red,2025-01-21 11:05:02,Inactive,2025-02-11
+4,University Road,NED University to Hassan Square,Red,2025-01-03 00:17:25,Active,2025-02-21
+5,Rashid Minhas Road,Gulshan to Gulistan-e-Jauhar,Green,2025-01-24 07:01:55,Active,2025-02-04
+6,Shahrah-e-Pakistan,Sohrab Goth to Liaquatabad,Green,2025-02-26 18:28:13,Inactive,2025-02-08
+7,Korangi Road,Korangi Crossing to Qayyumabad,Yellow,2025-01-02 06:23:28,Inactive,2025-02-04
+8,Shahrah-e-Quaideen,Clifton to NIPA,Green,2025-01-09 19:50:50,Active,2025-01-07
+9,Shaheed-e-Millat Road,Nursery to KDA Chowrangi,Green,2025-01-28 12:23:45,Active,2025-01-23
+10,Sunset Boulevard,DHA Phase 2,Yellow,2025-02-04 00:19:38,Active,2025-02-03
+11,Khayaban-e-Ittehad,DHA/Clifton to Gadap,Green,2025-02-23 18:28:29,Inactive,2025-02-02
+12,Karsaz Road,Shahrah-e-Faisal to Khalid Bin Waleed Road,Green,2025-01-23 23:18:17,Active,2025-02-03
+13,Tariq Road,Gulshan-e-Iqbal to PECHS,Yellow,2025-02-08 20:09:09,Active,2025-02-14
+14,Sharae Pakistan,Liaquatabad to Sohrab Goth,Green,2025-02-23 15:33:25,Active,2025-01-18
+15,Sir Shah Muhammad Suleman Road,Saddar,Red,2025-01-25 10:41:41,Active,2025-02-27
+16,MT Khan Road,Kemari to Saddar,Green,2025-01-15 11:27:54,Inactive,2025-02-02
+17,Chaudhry Khaliq uz Zaman Road,Garden East,Red,2025-02-25 10:52:15,Active,2025-02-27
+18,Shaheed-e-Millat Expressway,Malir to Korangi,Green,2025-01-17 17:24:54,Inactive,2025-02-14
+19,Shahrah-e-Liaquat,Saddar to Lyari,Green,2025-01-07 14:40:12,Active,2025-01-06
+20,Shahrah-e-Iran,Clifton to Saddar,Yellow,2025-02-03 11:40:07,Inactive,2025-01-07
+21,Khayaban-e-Shamsheer,DHA Phase 5,Green,2025-02-25 18:09:35,Inactive,2025-01-18
+22,Khayaban-e-Shahbaz,DHA Phase 6,Green,2025-02-25 13:55:02,Active,2025-01-10
+23,Khayaban-e-Bahria,DHA/Clifton,Green,2025-02-11 15:39:54,Active,2025-02-20
+24,Shahrah-e-Sher Shah Suri,North Karachi to Super Highway,Red,2025-02-03 17:47:38,Active,2025-02-13
+25,Abul Hasan Ispahani Road,Gulshan-e-Iqbal to Shahrah-e-Faisal,Yellow,2025-01-16 22:26:11,Active,2025-03-01
+26,Sharae Quaid-e-Azam,Malir to Landhi,Red,2025-01-11 17:45:37,Active,2025-02-02
+27,Nishtar Road,Saddar,Yellow,2025-02-18 08:30:52,Active,2025-01-28
+28,Burnes Road,Saddar,Green,2025-02-14 00:06:18,Inactive,2025-02-19
+29,Kashmir Road,Saddar,Green,2025-02-03 08:32:19,Active,2025-01-11
+30,Miran Shah Road,Qaidabad,Red,2025-02-20 10:35:41,Inactive,2025-01-07
+31,Shahrah-e-Usman,North Nazimabad,Red,2025-01-08 06:32:55,Inactive,2025-01-12
+32,Shahrah-e-Noor Jehan,North Nazimabad,Green,2025-02-15 12:51:18,Active,2025-02-16
+33,Shahrah-e-Shershah,North Karachi,Red,2025-02-14 23:51:35,Active,2025-01-11
+34,Shahrah-e-Jahangir,Nazimabad,Yellow,2025-01-31 16:55:23,Active,2025-01-24
+35,Shahrah-e-Peshawar,New Karachi,Yellow,2025-02-20 22:09:39,Active,2025-02-14
+36,Shahrah-e-Turkey,Gulshan-e-Iqbal,Green,2025-01-26 14:48:01,Active,2025-01-03
+37,Main University Road,Gulshan-e-Iqbal,Green,2025-01-21 02:57:00,Active,2025-02-26
+38,Main Khayaban-e-Jami,Clifton/DHA,Red,2025-01-11 04:29:18,Inactive,2025-02-13
+39,Khayaban-e-Mujahid,DHA Phase 5,Red,2025-02-01 13:46:59,Active,2025-02-07
+40,Khayaban-e-Saadi,DHA Phase 4,Green,2025-01-16 19:31:02,Active,2025-02-28
+41,Khayaban-e-Hafiz,DHA Phase 6,Red,2025-02-14 09:14:36,Inactive,2025-01-28
+42,Khayaban-e-Roomi,DHA Phase 8,Green,2025-02-19 09:07:15,Inactive,2025-02-13
+43,Khayaban-e-Tanzeem,DHA Phase 5,Yellow,2025-02-02 10:29:48,Active,2025-01-05
+44,Khayaban-e-Shaheen,DHA Phase 6,Green,2025-02-10 05:58:19,Active,2025-01-01
+45,Shahrah-e-Ghalib,Gulshan-e-Iqbal,Red,2025-01-25 11:09:43,Inactive,2025-01-09
+46,Shahrah-e-Ata Turk,Gulshan-e-Iqbal,Red,2025-01-11 17:47:32,Inactive,2025-02-20
+47,Shahrah-e-Alamgir,Gulshan-e-Iqbal,Yellow,2025-02-20 01:32:00,Active,2025-01-13
+48,Shahrah-e-Muhammed Ali Jinnah,Gulshan-e-Iqbal,Red,2025-01-20 10:37:24,Active,2025-01-30
+49,Shahrah-e-Alamgir,Gulshan-e-Iqbal,Yellow,2025-02-20 01:32:00,Active,2025-01-13
+50,Shahrah-e-Bahadur Yar Jang,Gulshan-e-Iqbal,Red,2025-01-24 07:35:44,Active,2025-01-27
+51,Shahrah-e-Sindhi Muslim Society,Gulshan-e-Iqbal,Green,2025-01-15 21:11:02,Inactive,2025-02-24
+52,Shahrah-e-Gulistan-e-Johar,Gulistan-e-Jauhar,Red,2025-01-20 17:56:02,Active,2025-01-20
+53,Shahrah-e-North Nazimabad,North Nazimabad,Yellow,2025-01-13 18:07:24,Active,2025-01-03
+54,Shahrah-e-Farooq-e-Azam,Nazimabad,Green,2025-02-18 22:56:36,Inactive,2025-02-28
+55,Shahrah-e-Shah Waliullah,North Nazimabad,Yellow,2025-01-22 04:26:16,Active,2025-01-23
+56,Shahrah-e-Muhammed Bin Qasim,Defence,Green,2025-01-01 21:09:52,Active,2025-01-08
+57,Shahrah-e-Qaddafi,Orangi Town,Green,2025-02-05 19:23:41,Active,2025-01-14
+58,Shahrah-e-Orangi,Orangi Town,Red,2025-01-09 03:06:40,Active,2025-02-09
+59,Shahrah-e-Gulshan-e-Maymar,Gulshan-e-Maymar,Green,2025-02-18 04:14:37,Active,2025-01-30
+60,Shahrah-e-Qaudri,North Karachi,Red,2025-02-10 15:37:18,Active,2025-01-18
+61,Shahrah-e-Nishtar,Nazimabad,Yellow,2025-02-19 10:27:43,Inactive,2025-02-16
+62,Shahrah-e-Nishter,Nazimabad,Yellow,2025-02-04 23:06:25,Inactive,2025-02-04
+63,Shahrah-e-Gulberg,Gulberg,Yellow,2025-02-01 15:43:30,Inactive,2025-02-07
+64,Shahrah-e-Liaquatabad,Liaquatabad,Yellow,2025-02-04 06:12:59,Inactive,2025-02-19
+65,Shahrah-e-PECHS,PECHS,Green,2025-02-21 20:59:27,Inactive,2025-01-14
+66,Shahrah-e-Fatima Jinnah,Saddar,Yellow,2025-01-17 15:48:25,Active,2025-01-25
+67,Shahrah-e-Ibn-e-Sina,Gulshan-e-Iqbal,Red,2025-02-08 02:37:24,Active,2025-02-14
+68,Shahrah-e-Jauhar,Gulistan-e-Jauhar,Green,2025-01-14 15:05:31,Inactive,2025-02-04
+69,Shahrah-e-Millenium,Gulistan-e-Jauhar,Red,2025-02-16 15:28:43,Inactive,2025-01-03
+70,Shahrah-e-Gulzar-e-Hijri,Gulistan-e-Jauhar,Green,2025-02-19 04:01:05,Inactive,2025-02-11
+71,Shahrah-e-Abul Hassan Isphahani,Gulshan-e-Iqbal,Yellow,2025-01-21 19:13:05,Inactive,2025-02-18
+72,Shahrah-e-Hafeez Jalandhari,Gulshan-e-Iqbal,Green,2025-01-12 16:29:50,Inactive,2025-02-16
+73,Shahrah-e-Mazare Quaid,Mazar-e-Quaid,Green,2025-01-13 10:03:23,Active,2025-01-18
+74,Shahrah-e-Qainchi,Akhtar Colony,Yellow,2025-01-30 00:45:40,Inactive,2025-02-06
+75,Shahrah-e-Bandar Road,Keamari,Yellow,2025-01-06 19:17:25,Active,2025-01-15
+76,Shahrah-e-Kemari,Kemari,Yellow,2025-03-02 23:54:47,Active,2025-02-02
+77,Shahrah-e-Manora,Manora,Yellow,2025-01-20 02:52:59,Inactive,2025-02-20
+78,Shahrah-e-Port Trust,Kemari,Red,2025-01-15 22:43:50,Inactive,2025-02-04
+79,Shahrah-e-Sher Shah,New Karachi,Yellow,2025-01-25 14:29:13,Inactive,2025-02-17
+80,Shahrah-e-Bin Qasim,Korangi,Yellow,2025-02-18 13:09:56,Inactive,2025-01-20
+81,Shahrah-e-Landhi,Landhi,Yellow,2025-02-01 21:23:52,Active,2025-01-05
+82,Shahrah-e-Malir,Malir,Green,2025-01-11 04:42:20,Active,2025-01-17
+83,Shahrah-e-Quaid-e-Azam,Malir,Green,2025-02-09 04:13:14,Active,2025-01-21
+84,Shahrah-e-Gulshan-e-Hadeed,Steel Town,Yellow,2025-01-04 13:40:49,Active,2025-02-16
+85,Shahrah-e-Saeedabad,Saeedabad,Yellow,2025-02-28 20:53:57,Inactive,2025-02-24
+86,Shahrah-e-Ittehad,Korangi,Red,2025-01-11 12:39:45,Inactive,2025-02-24
+87,Shahrah-e-Nipa,NIPA,Green,2025-02-03 11:02:57,Active,2025-02-20
+88,Shahrah-e-Hasan Square,Gulshan-e-Iqbal,Yellow,2025-02-25 19:24:36,Active,2025-02-12
+89,Shahrah-e-Gulshan Chowrangi,Gulshan-e-Iqbal,Green,2025-02-21 04:04:37,Inactive,2025-02-26
+90,Shahrah-e-North Karachi,North Karachi,Red,2025-01-13 19:52:46,Active,2025-02-03
+91,Shahrah-e-Super Highway,Sohrab Goth,Green,2025-01-10 21:39:54,Inactive,2025-01-20
+92,Shahrah-e-National Highway,City Entrance,Yellow,2025-01-26 12:07:25,Inactive,2025-01-26
+93,Shahrah-e-Rashid Minhas,Gulshan,Green,2025-01-26 18:12:43,Active,2025-02-18
+94,Shahrah-e-Kala Board,Korangi,Yellow,2025-01-10 17:47:32,Active,2025-02-27
+95,Shahrah-e-Shah Faisal,Shah Faisal Colony,Green,2025-03-02 18:10:26,Active,2025-01-05
+96,Shahrah-e-Kaneez Fatima,Scheme 33,Yellow,2025-01-28 02:52:29,Active,2025-01-16
+97,Shahrah-e-Moinabad,Moinabad,Green,2025-02-25 17:14:14,Active,2025-01-11
+98,Shahrah-e-Model Colony,Model Colony,Yellow,2025-01-09 17:00:52,Inactive,2025-01-14
+99,Shahrah-e-Bahadurabad,Bahadurabad,Yellow,2025-01-26 15:05:36,Active,2025-01-11
+100,Shahrah-e-Akhtar Colony,Akhtar Colony,Green,2025-01-17 00:04:19,Active,2025-01-01

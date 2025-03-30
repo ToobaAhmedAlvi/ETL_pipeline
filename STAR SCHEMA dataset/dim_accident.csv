@@ -1,0 +1,101 @@
+accident_id,location_id,accident_date,accident_time,road_condition_id,road_surface
+1,Shahrah-e-Bandar Road,2025-02-20,15:15:34,32,Icy
+2,Shahrah-e-Gulberg,2025-01-07,13:14:37,79,Icy
+3,Miran Shah Road,2025-02-03,15:03:38,92,Wet
+4,Shahrah-e-PECHS,2025-02-19,01:05:37,83,Wet
+5,Sharae Quaid-e-Azam,2025-02-15,15:15:27,7,Snowy
+6,Shahrah-e-Manora,2025-01-06,20:48:02,16,Snowy
+7,Shahrah-e-Saeedabad,2025-02-01,01:52:06,90,Dry
+8,Shahrah-e-Ibn-e-Sina,2025-02-01,17:34:58,26,Icy
+9,Shahrah-e-Bahadurabad,2025-01-13,14:28:48,40,Wet
+10,Khayaban-e-Shamsheer,2025-02-24,02:57:45,73,Snowy
+11,Shahrah-e-Gulshan-e-Hadeed,2025-01-25,14:10:23,69,Snowy
+12,Karsaz Road,2025-02-20,23:25:03,44,Dry
+13,Shaheed-e-Millat Expressway,2025-01-26,23:47:44,48,Icy
+14,Shahrah-e-Malir,2025-02-27,15:34:50,41,Dry
+15,Shahrah-e-Hasan Square,2025-02-21,06:44:04,28,Icy
+16,Shahrah-e-Rashid Minhas,2025-01-08,11:18:38,1,Snowy
+17,Shahrah-e-Bin Qasim,2025-02-26,14:46:32,47,Wet
+18,Shahrah-e-Super Highway,2025-01-30,17:33:52,21,Icy
+19,Tariq Road,2025-01-21,23:57:44,58,Wet
+20,Shahrah-e-Qaudri,2025-01-25,19:31:11,99,Snowy
+21,Shahrah-e-Quaid-e-Azam,2025-02-26,05:41:47,86,Dry
+22,Shahrah-e-Model Colony,2025-03-02,11:43:41,50,Wet
+23,Shahrah-e-Ata Turk,2025-01-26,13:16:02,11,Icy
+24,Shahrah-e-Faisal,2025-02-25,21:08:52,35,Wet
+25,Khayaban-e-Bahria,2025-01-03,12:18:56,9,Wet
+26,Abul Hasan Ispahani Road,2025-02-10,02:37:06,13,Snowy
+27,Sir Shah Muhammad Suleman Road,2025-01-02,11:15:13,77,Snowy
+28,Khayaban-e-Shaheen,2025-02-18,03:50:42,42,Dry
+29,Shahrah-e-North Karachi,2025-01-29,13:52:47,87,Icy
+30,Shahrah-e-Shah Waliullah,2025-01-29,21:31:36,75,Snowy
+31,Shahrah-e-Alamgir,2025-01-02,21:45:23,72,Wet
+32,Shahrah-e-Ittehad,2025-01-27,21:22:47,52,Icy
+33,Shahrah-e-Alamgir,2025-03-03,10:05:14,72,Wet
+34,Shahrah-e-Muhammed Ali Jinnah,2025-02-12,03:04:39,18,Snowy
+35,Khayaban-e-Shahbaz,2025-02-18,09:55:51,91,Icy
+36,Shahrah-e-Liaquat,2025-02-22,17:09:56,29,Wet
+37,Shahrah-e-Orangi,2025-02-18,12:41:44,33,Snowy
+38,Shahrah-e-Quaideen,2025-01-18,03:38:07,15,Snowy
+39,Korangi Road,2025-02-28,13:56:50,46,Dry
+40,Khayaban-e-Hafiz,2025-02-28,03:22:16,98,Dry
+41,Shahrah-e-Port Trust,2025-02-12,13:05:51,30,Dry
+42,Shaheed-e-Millat Road,2025-03-01,06:02:19,25,Icy
+43,Shahrah-e-Farooq-e-Azam,2025-01-20,07:15:57,19,Icy
+44,Shahrah-e-Gulistan-e-Johar,2025-01-02,00:27:15,67,Dry
+45,Shahrah-e-Ghalib,2025-02-04,13:20:21,96,Icy
+46,Shahrah-e-Fatima Jinnah,2025-03-03,04:05:48,12,Snowy
+47,Shahrah-e-Gulshan Chowrangi,2025-01-19,23:12:23,10,Snowy
+48,Kashmir Road,2025-02-25,14:25:09,93,Wet
+49,Shahrah-e-Sindhi Muslim Society,2025-02-09,23:48:15,56,Icy
+50,Shahrah-e-Abul Hassan Isphahani,2025-02-05,01:26:34,61,Icy
+51,Shahrah-e-Nishter,2025-01-09,03:09:53,59,Wet
+52,Burnes Road,2025-01-14,15:52:30,65,Icy
+53,Shahrah-e-Nipa,2025-02-08,08:10:50,71,Snowy
+54,Main Khayaban-e-Jami,2025-01-14,01:27:31,74,Icy
+55,Shahrah-e-Pakistan,2025-03-02,12:16:33,81,Icy
+56,Shahrah-e-Moinabad,2025-01-27,22:25:33,27,Snowy
+57,Shahrah-e-Jahangir,2025-01-15,10:49:58,34,Wet
+58,Sharae Pakistan,2025-03-03,10:15:53,2,Snowy
+59,MT Khan Road,2025-02-27,05:35:42,64,Icy
+60,Shahrah-e-Landhi,2025-01-30,15:54:46,4,Dry
+61,Shahrah-e-Qaddafi,2025-01-06,02:36:32,76,Snowy
+62,MA Jinnah Road,2025-01-07,04:14:29,6,Dry
+63,Khayaban-e-Saadi,2025-02-21,16:29:17,24,Snowy
+64,Shahrah-e-Mazare Quaid,2025-02-26,17:43:51,80,Icy
+65,Khayaban-e-Tanzeem,2025-03-01,11:50:51,97,Snowy
+66,Main University Road,2025-02-25,17:38:03,31,Dry
+67,Shahrah-e-North Nazimabad,2025-02-27,20:53:16,63,Icy
+68,Shahrah-e-Liaquatabad,2025-01-10,18:31:59,62,Wet
+69,Shahrah-e-Gulshan-e-Maymar,2025-01-08,08:39:34,84,Wet
+70,Shahrah-e-Qainchi,2025-01-18,05:59:15,49,Icy
+71,Shahrah-e-Peshawar,2025-01-28,06:08:36,5,Wet
+72,Nishtar Road,2025-02-12,09:54:11,54,Snowy
+73,Khayaban-e-Roomi,2025-01-05,21:58:43,82,Snowy
+74,Chaudhry Khaliq uz Zaman Road,2025-02-12,15:10:46,20,Wet
+75,Shahrah-e-Akhtar Colony,2025-01-30,05:59:34,8,Snowy
+76,Shahrah-e-Usman,2025-02-24,13:29:48,100,Dry
+77,Rashid Minhas Road,2025-01-28,16:46:35,66,Dry
+78,II Chundrigar Road,2025-01-06,04:56:22,39,Icy
+79,Sunset Boulevard,2025-02-02,05:53:09,38,Wet
+80,Shahrah-e-Turkey,2025-02-17,23:10:04,78,Wet
+81,Shahrah-e-Bahadur Yar Jang,2025-01-29,23:40:36,94,Icy
+82,Khayaban-e-Mujahid,2025-01-22,18:40:08,95,Icy
+83,Shahrah-e-Noor Jehan,2025-01-28,07:22:01,57,Dry
+84,Khayaban-e-Ittehad,2025-02-12,16:30:17,89,Wet
+85,Shahrah-e-National Highway,2025-02-26,06:42:56,36,Dry
+86,University Road,2025-03-03,06:04:50,37,Snowy
+87,Shahrah-e-Gulzar-e-Hijri,2025-02-11,16:31:46,3,Snowy
+88,Shahrah-e-Sher Shah Suri,2025-02-24,19:04:04,53,Wet
+89,Shahrah-e-Kaneez Fatima,2025-01-03,23:44:59,45,Icy
+90,Shahrah-e-Nishtar,2025-01-17,15:31:54,43,Dry
+91,Shahrah-e-Shah Faisal,2025-02-06,22:29:25,88,Snowy
+92,Shahrah-e-Shershah,2025-02-21,08:06:43,68,Wet
+93,Shahrah-e-Hafeez Jalandhari,2025-02-24,21:46:04,14,Snowy
+94,Shahrah-e-Sher Shah,2025-02-08,05:19:38,51,Wet
+95,Shahrah-e-Jauhar,2025-01-13,16:40:03,23,Snowy
+96,Shahrah-e-Iran,2025-01-31,01:44:06,22,Dry
+97,Shahrah-e-Kemari,2025-03-01,00:16:10,85,Icy
+98,Shahrah-e-Millenium,2025-02-25,22:57:27,60,Wet
+99,Shahrah-e-Kala Board,2025-02-05,14:54:47,70,Icy
+100,Shahrah-e-Muhammed Bin Qasim,2025-02-25,06:52:15,55,Snowy

@@ -1,0 +1,201 @@
+vehicle_id,plate_number,vehicle_type,driver_id,has_violated_speed
+1,92X 5338,Car,64,True
+2,186-ZJJ,Car,145,False
+3,835 1WK,Car,140,True
+4,OYD7711,Bus,70,False
+5,KFU-0955,Bus,24,False
+6,41T•740,Motorcycle,43,True
+7,93P L10,Motorcycle,66,False
+8,0N H8535,Car,5,False
+9,Q81 4GN,Truck,166,False
+10,049-PVL,Truck,142,True
+11,9QIO355,Bus,56,False
+12,CDO-663,Motorcycle,155,False
+13,LQL 234,Truck,195,False
+14,4C 62967,Bus,59,True
+15,39K 584,Bus,139,False
+16,LVD 039,Bus,10,False
+17,2JI A33,Truck,19,True
+18,51ZU183,Motorcycle,126,False
+19,CQ 56991,Truck,55,False
+20,827 FSG,Car,28,True
+21,CPV-691,Truck,159,False
+22,WKE 391,Bus,189,False
+23,55NT839,Car,64,True
+24,305-KGDY,Bus,172,False
+25,1V 2U2QRT,Bus,7,False
+26,JO-2250,Motorcycle,161,False
+27,7-03517J,Motorcycle,186,True
+28,3Q964,Bus,104,True
+29,8OA D93,Car,33,False
+30,240-MZI,Car,10,False
+31,VW2 9199,Car,174,False
+32,70D M63,Bus,162,True
+33,762 DRY,Bus,170,True
+34,NJW 979,Bus,39,False
+35,MMZ-043,Car,39,False
+36,Y00 9VP,Motorcycle,122,True
+37,4Y 2995L,Car,6,True
+38,283-XCP,Truck,142,False
+39,13-49932,Bus,187,True
+40,HNK 546,Bus,4,False
+41,O 980888,Truck,154,True
+42,UFY-6633,Truck,104,False
+43,OQS 018,Motorcycle,116,True
+44,1251 BR,Motorcycle,107,True
+45,60S 181,Truck,44,False
+46,99Y•996,Truck,187,True
+47,RPT V76,Bus,183,False
+48,118 HID,Truck,135,True
+49,QWY 298,Truck,25,False
+50,167 GBX,Car,7,False
+51,TXW 901,Truck,62,False
+52,LKW-8001,Motorcycle,196,False
+53,MTE 963,Bus,124,False
+54,80-06646,Motorcycle,179,True
+55,KRA 825,Motorcycle,179,False
+56,Z 932816,Motorcycle,181,True
+57,025NT,Bus,77,False
+58,428 DGX,Motorcycle,125,False
+59,0QD2154,Truck,94,False
+60,384349,Truck,74,False
+61,646-LDMB,Bus,86,True
+62,OBY-578,Bus,112,True
+63,MVK 609,Truck,80,True
+64,VHZ 888,Motorcycle,180,False
+65,V 718292,Truck,196,True
+66,9DLV 91,Car,135,False
+67,W03 8JO,Car,199,True
+68,WEA 4964,Motorcycle,155,True
+69,CJF 979,Motorcycle,136,False
+70,844Y,Car,47,False
+71,447 MUR,Car,126,False
+72,197RFA,Car,6,True
+73,375 ZHH,Car,121,False
+74,1MDG497,Bus,148,True
+75,237-SZV,Truck,163,True
+76,391-ARJT,Car,157,False
+77,36G 7052,Car,82,False
+78,6-35827,Motorcycle,108,True
+79,903 EWH,Car,50,True
+80,839-YYL,Motorcycle,117,False
+81,G03 2YZ,Truck,19,True
+82,7C 6P3OSW,Truck,4,True
+83,912 RZC,Bus,132,False
+84,48E DR1,Motorcycle,99,False
+85,672-097,Motorcycle,31,False
+86,29Y•887,Truck,37,False
+87,ZC 7992,Car,23,False
+88,BKA-239,Truck,149,False
+89,5PZ D75,Motorcycle,27,True
+90,MRK-3561,Truck,110,False
+91,KJM-1277,Truck,161,False
+92,O16-73A,Car,67,True
+93,6JH J75,Motorcycle,142,True
+94,YMR6808,Motorcycle,134,False
+95,65K 156,Bus,94,False
+96,8-E0166,Motorcycle,183,True
+97,379MK,Car,54,False
+98,GYU0867,Motorcycle,39,False
+99,5-N3060,Truck,189,False
+100,80VQ4,Bus,51,False
+101,N43 5ET,Bus,194,False
+102,1Z 5R9MWE,Truck,11,False
+103,723-FMX,Truck,139,True
+104,VAR S66,Motorcycle,56,True
+105,5K T1494,Car,46,False
+106,57FF5,Car,94,True
+107,HP 7311,Bus,199,False
+108,UXR 490,Truck,161,True
+109,4L N9778,Truck,51,False
+110,5NP5498,Truck,191,False
+111,826BK,Truck,183,False
+112,99NL131,Car,189,False
+113,0E 5535A,Motorcycle,180,False
+114,P95-65X,Bus,15,False
+115,HOG 716,Bus,152,True
+116,951 IZU,Truck,102,True
+117,427-ENY,Bus,124,False
+118,3-75950,Truck,109,True
+119,R41 0CD,Bus,51,True
+120,6SB 102,Truck,56,False
+121,0E971,Truck,199,True
+122,PUU0726,Truck,106,False
+123,7QJM 74,Motorcycle,127,True
+124,KXC 125,Car,33,False
+125,6X 22411,Truck,154,False
+126,2YIH 32,Bus,67,True
+127,316 LSL,Motorcycle,143,False
+128,0XU R83,Motorcycle,123,True
+129,SZ6 4515,Motorcycle,100,False
+130,248 SJQ,Motorcycle,99,True
+131,CEU 996,Car,114,False
+132,010 JJO,Car,138,False
+133,17J 5043,Truck,138,False
+134,4O NR099,Truck,81,False
+135,52Q UC2,Motorcycle,11,False
+136,S01-18A,Car,184,False
+137,P19 7QA,Car,21,True
+138,KDO-1542,Truck,153,True
+139,820E9,Car,184,False
+140,ZJF 095,Truck,161,True
+141,806 HJQ,Motorcycle,188,False
+142,26M M29,Truck,45,True
+143,TB1 2282,Motorcycle,175,False
+144,865O4,Truck,69,False
+145,JIZ9868,Car,53,False
+146,1JK 420,Truck,165,False
+147,477 HEQ,Bus,64,True
+148,WBF 403,Car,187,True
+149,NYA-8089,Motorcycle,22,False
+150,9-A1846,Car,85,False
+151,1T J8631,Motorcycle,46,True
+152,64W A94,Truck,2,False
+153,4-9283J,Truck,156,False
+154,752 3QE,Bus,90,False
+155,4JW 055,Bus,119,False
+156,186-RSB,Car,163,True
+157,MCC 112,Motorcycle,199,False
+158,13-Q957,Truck,143,False
+159,FHL7510,Truck,134,True
+160,MOV-804,Truck,184,True
+161,HEL 322,Truck,154,True
+162,5-03540,Bus,60,True
+163,262-FVP,Motorcycle,65,False
+164,432 JEI,Car,195,True
+165,LWJ 879,Truck,185,False
+166,SIN-298,Bus,50,True
+167,313524,Motorcycle,103,False
+168,3-V8461,Bus,10,True
+169,KMN 862,Bus,66,True
+170,006V4,Motorcycle,15,False
+171,KYF 239,Car,8,True
+172,JZL 211,Motorcycle,29,False
+173,8HQ54,Car,110,True
+174,BYB 2739,Truck,146,False
+175,05U 1780,Motorcycle,18,True
+176,1PB 403,Truck,80,False
+177,771N,Bus,199,False
+178,GZ5 4965,Truck,161,True
+179,061-IJP,Truck,95,True
+180,1-57805,Truck,85,False
+181,2EG 280,Motorcycle,10,False
+182,4TC 017,Bus,80,False
+183,R55-SVO,Truck,165,True
+184,I99 2QJ,Truck,116,False
+185,989850,Truck,42,True
+186,0-A3796,Bus,39,False
+187,380BNE,Truck,8,True
+188,M27 5CD,Bus,16,False
+189,40U•010,Truck,24,False
+190,ZYL 135,Bus,35,False
+191,GC0 8764,Truck,184,False
+192,290C,Bus,87,False
+193,77-Z498,Truck,22,False
+194,5K 6525C,Car,124,False
+195,3NT7718,Motorcycle,39,False
+196,9MR 974,Car,112,False
+197,AI-9234,Bus,60,True
+198,6538,Motorcycle,72,False
+199,XPA6114,Motorcycle,128,False
+200,14K X29,Car,39,True

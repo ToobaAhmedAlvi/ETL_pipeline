@@ -1,0 +1,101 @@
+incident_id,location_id,incident_date,incident_time,acc_day
+1,Shahrah-e-Faisal,2025-02-15,14:46:00,Saturday
+2,MA Jinnah Road,2025-02-23,18:29:41,Sunday
+3,II Chundrigar Road,2025-01-15,23:55:50,Wednesday
+4,University Road,2025-02-05,22:04:32,Wednesday
+5,Rashid Minhas Road,2025-01-15,19:18:05,Wednesday
+6,Shahrah-e-Pakistan,2025-01-20,00:55:24,Monday
+7,Korangi Road,2025-01-30,07:56:37,Thursday
+8,Shahrah-e-Quaideen,2025-01-31,08:08:58,Friday
+9,Shaheed-e-Millat Road,2025-03-03,00:41:46,Monday
+10,Shahrah-e-Gulberg,2025-02-17,06:04:21,Monday
+11,Shahrah-e-Liaquatabad,2025-02-09,08:57:23,Sunday
+12,Shahrah-e-PECHS,2025-01-15,20:53:19,Wednesday
+13,Shahrah-e-Fatima Jinnah,2025-02-28,22:46:50,Friday
+14,Shahrah-e-Ibn-e-Sina,2025-02-24,20:13:37,Monday
+15,Sir Shah Muhammad Suleman Road,2025-01-22,13:57:44,Wednesday
+16,MT Khan Road,2025-02-23,19:21:13,Sunday
+17,Chaudhry Khaliq uz Zaman Road,2025-01-09,19:08:24,Thursday
+18,Shaheed-e-Millat Expressway,2025-01-30,20:31:43,Thursday
+19,Shahrah-e-Liaquat,2025-02-20,15:32:42,Thursday
+20,Shahrah-e-Iran,2025-01-27,13:55:59,Monday
+21,Khayaban-e-Shamsheer,2025-01-07,06:36:47,Tuesday
+22,Khayaban-e-Shahbaz,2025-02-09,19:58:34,Sunday
+23,Khayaban-e-Bahria,2025-02-14,19:16:58,Friday
+24,Shahrah-e-Sher Shah Suri,2025-02-06,00:42:29,Thursday
+25,Abul Hasan Ispahani Road,2025-01-17,08:03:55,Friday
+26,Sharae Quaid-e-Azam,2025-01-10,22:31:07,Friday
+27,Nishtar Road,2025-02-24,20:08:03,Monday
+28,Shahrah-e-Landhi,2025-01-15,13:15:26,Wednesday
+29,Shahrah-e-Malir,2025-03-02,11:58:00,Sunday
+30,Shahrah-e-Quaid-e-Azam,2025-01-29,12:02:37,Wednesday
+31,Shahrah-e-Gulshan-e-Hadeed,2025-02-13,17:32:35,Thursday
+32,Shahrah-e-Saeedabad,2025-02-28,19:42:51,Friday
+33,Shahrah-e-Ittehad,2025-01-04,21:49:18,Saturday
+34,Shahrah-e-Nipa,2025-02-01,18:44:06,Saturday
+35,Shahrah-e-Peshawar,2025-01-16,12:17:18,Thursday
+36,Shahrah-e-Turkey,2025-01-23,11:41:28,Thursday
+37,Main University Road,2025-03-01,12:56:51,Saturday
+38,Main Khayaban-e-Jami,2025-02-27,14:15:03,Thursday
+39,Shahrah-e-Shah Faisal,2025-02-22,02:20:46,Saturday
+40,Shahrah-e-Kaneez Fatima,2025-03-03,06:02:03,Monday
+41,Shahrah-e-Moinabad,2025-02-27,21:22:01,Thursday
+42,Shahrah-e-Model Colony,2025-03-03,00:08:51,Monday
+43,Shahrah-e-Bahadurabad,2025-02-17,02:49:14,Monday
+44,Shahrah-e-Akhtar Colony,2025-01-12,16:10:10,Sunday
+45,Shahrah-e-Ghalib,2025-01-24,07:50:56,Friday
+46,Shahrah-e-Sindhi Muslim Society,2025-02-28,16:33:01,Friday
+47,Shahrah-e-Gulistan-e-Johar,2025-01-19,11:47:49,Sunday
+48,Shahrah-e-North Nazimabad,2025-01-05,18:41:15,Sunday
+49,Shahrah-e-Farooq-e-Azam,2025-02-25,05:48:19,Tuesday
+50,Shahrah-e-Shah Waliullah,2025-01-29,10:24:04,Wednesday
+51,Shahrah-e-Faisal,2025-02-16,05:59:56,Sunday
+52,MA Jinnah Road,2025-01-13,00:43:29,Monday
+53,II Chundrigar Road,2025-02-06,11:53:49,Thursday
+54,University Road,2025-01-13,14:19:06,Monday
+55,Rashid Minhas Road,2025-02-25,05:57:42,Tuesday
+56,Shahrah-e-Pakistan,2025-02-22,11:04:40,Saturday
+57,Korangi Road,2025-02-22,06:20:07,Saturday
+58,Shahrah-e-Quaideen,2025-01-05,05:12:40,Sunday
+59,Shaheed-e-Millat Road,2025-02-19,16:12:08,Wednesday
+60,Shahrah-e-Gulberg,2025-02-28,09:42:42,Friday
+61,Shahrah-e-Liaquatabad,2025-02-04,17:37:42,Tuesday
+62,Shahrah-e-PECHS,2025-01-17,14:09:25,Friday
+63,Shahrah-e-Fatima Jinnah,2025-01-22,14:51:49,Wednesday
+64,Shahrah-e-Ibn-e-Sina,2025-02-19,00:57:21,Wednesday
+65,Sir Shah Muhammad Suleman Road,2025-01-05,11:22:20,Sunday
+66,MT Khan Road,2025-02-17,18:45:52,Monday
+67,Chaudhry Khaliq uz Zaman Road,2025-02-25,20:25:10,Tuesday
+68,Shaheed-e-Millat Expressway,2025-02-18,19:19:53,Tuesday
+69,Shahrah-e-Liaquat,2025-01-11,03:03:07,Saturday
+70,Shahrah-e-Iran,2025-01-24,04:20:28,Friday
+71,Khayaban-e-Shamsheer,2025-02-05,13:25:34,Wednesday
+72,Khayaban-e-Shahbaz,2025-01-28,06:29:25,Tuesday
+73,Khayaban-e-Bahria,2025-03-02,03:13:07,Sunday
+74,Shahrah-e-Sher Shah Suri,2025-02-22,02:17:59,Saturday
+75,Abul Hasan Ispahani Road,2025-02-04,02:07:18,Tuesday
+76,Sharae Quaid-e-Azam,2025-02-04,12:11:43,Tuesday
+77,Nishtar Road,2025-01-19,02:45:57,Sunday
+78,Shahrah-e-Landhi,2025-01-14,20:16:39,Tuesday
+79,Shahrah-e-Malir,2025-03-02,21:07:25,Sunday
+80,Shahrah-e-Quaid-e-Azam,2025-01-13,17:21:59,Monday
+81,Shahrah-e-Gulshan-e-Hadeed,2025-02-07,00:02:43,Friday
+82,Shahrah-e-Saeedabad,2025-01-15,04:44:45,Wednesday
+83,Shahrah-e-Ittehad,2025-02-28,20:22:20,Friday
+84,Shahrah-e-Nipa,2025-01-12,01:38:15,Sunday
+85,Shahrah-e-Peshawar,2025-01-17,15:28:09,Friday
+86,Shahrah-e-Turkey,2025-02-07,15:27:16,Friday
+87,Main University Road,2025-03-03,08:16:40,Monday
+88,Main Khayaban-e-Jami,2025-02-18,13:02:22,Tuesday
+89,Shahrah-e-Shah Faisal,2025-02-17,06:02:45,Monday
+90,Shahrah-e-Kaneez Fatima,2025-02-02,01:33:37,Sunday
+91,Shahrah-e-Moinabad,2025-01-07,00:05:42,Tuesday
+92,Shahrah-e-Model Colony,2025-01-31,16:59:01,Friday
+93,Shahrah-e-Bahadurabad,2025-02-05,02:14:24,Wednesday
+94,Shahrah-e-Akhtar Colony,2025-02-22,10:42:21,Saturday
+95,Shahrah-e-Ghalib,2025-02-17,18:19:27,Monday
+96,Shahrah-e-Sindhi Muslim Society,2025-01-27,07:13:52,Monday
+97,Shahrah-e-Gulistan-e-Johar,2025-02-20,19:36:26,Thursday
+98,Shahrah-e-North Nazimabad,2025-02-10,07:25:01,Monday
+99,Shahrah-e-Farooq-e-Azam,2025-01-11,21:53:35,Saturday
+100,Shahrah-e-Shah Waliullah,2025-01-04,06:25:54,Saturday
